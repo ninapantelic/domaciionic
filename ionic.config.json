@@ -1,0 +1,7 @@
+{
+  "name": "domaciIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
